@@ -1,0 +1,25 @@
+name: Sync WakaTime Data
+on:
+  schedule:
+    - cron: '55 4 * * *' # 11:55 PM ET (04:55 UTC)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync data
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_URL: https://wakatime.com/api/v1
+        run: bash sync.sh
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Sync data $(date +%Y-%m-%d)"
+          git push
