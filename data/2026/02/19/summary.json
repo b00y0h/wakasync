@@ -1,0 +1,263 @@
+{
+    "data": [
+        {
+            "languages": [
+                {
+                    "name": "Other",
+                    "total_seconds": 2152.134753,
+                    "digital": "0:35:52",
+                    "decimal": "0.58",
+                    "text": "35 mins",
+                    "hours": 0,
+                    "minutes": 35,
+                    "seconds": 52,
+                    "percent": 58.46
+                },
+                {
+                    "name": "Bash",
+                    "total_seconds": 856.743961,
+                    "digital": "0:14:16",
+                    "decimal": "0.23",
+                    "text": "14 mins",
+                    "hours": 0,
+                    "minutes": 14,
+                    "seconds": 16,
+                    "percent": 23.27
+                },
+                {
+                    "name": "Markdown",
+                    "total_seconds": 362.309006,
+                    "digital": "0:06:02",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 2,
+                    "percent": 9.84
+                },
+                {
+                    "name": "sh",
+                    "total_seconds": 160.674009,
+                    "digital": "0:02:40",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 40,
+                    "percent": 4.36
+                },
+                {
+                    "name": "YAML",
+                    "total_seconds": 149.309154,
+                    "digital": "0:02:29",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 29,
+                    "percent": 4.06
+                }
+            ],
+            "grand_total": {
+                "hours": 1,
+                "minutes": 1,
+                "total_seconds": 3681.170883,
+                "digital": "1:01",
+                "decimal": "1.02",
+                "text": "1 hr 1 min",
+                "ai_additions": 84,
+                "ai_deletions": 5,
+                "human_additions": 0,
+                "human_deletions": 0
+            },
+            "editors": [
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 3463.640468,
+                    "digital": "0:57:43",
+                    "decimal": "0.95",
+                    "text": "57 mins",
+                    "hours": 0,
+                    "minutes": 57,
+                    "seconds": 43,
+                    "percent": 94.09
+                },
+                {
+                    "name": "Zsh",
+                    "total_seconds": 160.674009,
+                    "digital": "0:02:40",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 40,
+                    "percent": 4.36
+                },
+                {
+                    "name": "Terminal",
+                    "total_seconds": 56.856406,
+                    "digital": "0:00:56",
+                    "decimal": "0.00",
+                    "text": "56 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 56,
+                    "percent": 1.54
+                },
+                {
+                    "name": "VS Code",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 3681.170883,
+                    "digital": "1:01:21",
+                    "decimal": "1.02",
+                    "text": "1 hr 1 min",
+                    "hours": 1,
+                    "minutes": 1,
+                    "seconds": 21,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 3463.640468,
+                    "digital": "0:57:43",
+                    "decimal": "0.95",
+                    "text": "57 mins",
+                    "hours": 0,
+                    "minutes": 57,
+                    "seconds": 43,
+                    "percent": 94.09
+                },
+                {
+                    "name": "Coding",
+                    "total_seconds": 217.530415,
+                    "digital": "0:03:37",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 37,
+                    "percent": 5.91
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 3681.170883,
+                    "machine_name_id": "f002608f-2942-4b1c-acf3-2146f60c654b",
+                    "digital": "1:01:21",
+                    "decimal": "1.02",
+                    "text": "1 hr 1 min",
+                    "hours": 1,
+                    "minutes": 1,
+                    "seconds": 21,
+                    "percent": 100.0
+                }
+            ],
+            "projects": [
+                {
+                    "name": "lp-ci-templates",
+                    "total_seconds": 2161.487774,
+                    "ai_additions": 80,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:36:01",
+                    "decimal": "0.60",
+                    "text": "36 mins",
+                    "hours": 0,
+                    "minutes": 36,
+                    "seconds": 1,
+                    "percent": 58.72
+                },
+                {
+                    "name": "claude-code-ec2",
+                    "total_seconds": 1318.511518,
+                    "ai_additions": 1,
+                    "ai_deletions": 2,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:21:58",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 58,
+                    "percent": 35.82
+                },
+                {
+                    "name": "wakadash",
+                    "total_seconds": 201.171591,
+                    "ai_additions": 3,
+                    "ai_deletions": 3,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:03:21",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 21,
+                    "percent": 5.46
+                },
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 0.0,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                }
+            ],
+            "range": {
+                "start": "2026-02-19T05:00:00Z",
+                "end": "2026-02-20T04:59:59Z",
+                "date": "2026-02-19",
+                "text": "Thu Feb 19th 2026",
+                "timezone": "America/New_York"
+            }
+        }
+    ],
+    "start": "2026-02-19T05:00:00Z",
+    "end": "2026-02-20T04:59:59Z",
+    "cumulative_total": {
+        "seconds": 3681.170883,
+        "text": "1 hr 1 min",
+        "digital": "1:01",
+        "decimal": "1.02"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 1529,
+        "seconds_including_other_language": 3681,
+        "text": "25 mins",
+        "text_including_other_language": "1 hr 1 min"
+    }
+}

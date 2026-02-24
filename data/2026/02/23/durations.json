@@ -1,0 +1,447 @@
+{
+    "data": [
+        {
+            "time": 1771857634.300339,
+            "project": "wakafetch-brew",
+            "duration": 8.348473,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771857642.648812,
+            "project": "wakadash",
+            "duration": 183.65736,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771857826.306172,
+            "project": "wakafetch-brew",
+            "duration": 95.009038,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771857921.31521,
+            "project": "wakadash",
+            "duration": 754.271627,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771858675.586837,
+            "project": "claude-code-ec2",
+            "duration": 411.517593,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771859087.10443,
+            "project": "wakadash",
+            "duration": 39.334796,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771859126.439226,
+            "project": "wakafetch-brew",
+            "duration": 66.49192,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771860125.297195,
+            "project": "wakafetch-brew",
+            "duration": 674.896908,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771860800.194103,
+            "project": "claude-code-ec2",
+            "duration": 1931.146185,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771865609.823828,
+            "project": "claude-code-ec2",
+            "duration": 992.674877,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771866602.498705,
+            "project": "lp-ci-templates",
+            "duration": 348.018642,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771866950.517347,
+            "project": "claude-code-ec2",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771870580.023266,
+            "project": "wakafetch-brew",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771873200.524928,
+            "project": "claude-code-ec2",
+            "duration": 45.760072,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771873246.285,
+            "project": "royfoo-core",
+            "duration": 95.384817,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771873341.669817,
+            "project": "lp-ci-templates",
+            "duration": 197.653183,
+            "ai_additions": 2,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771873539.323,
+            "project": "claude-code-ec2",
+            "duration": 452.922781,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 3,
+            "human_deletions": 9,
+            "color": null
+        },
+        {
+            "time": 1771873992.245781,
+            "project": "lp-ci-templates",
+            "duration": 607.284219,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874599.53,
+            "project": "claude-code-ec2",
+            "duration": 97.207959,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874696.737959,
+            "project": "lp-ci-templates",
+            "duration": 43.488041,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874740.226,
+            "project": "claude-code-ec2",
+            "duration": 42.140673,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 22,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874782.366673,
+            "project": "lp-ci-templates",
+            "duration": 101.034327,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874883.401,
+            "project": "claude-code-ec2",
+            "duration": 15.225671,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771874898.626671,
+            "project": "lp-ci-templates",
+            "duration": 105.003329,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771875003.63,
+            "project": "claude-code-ec2",
+            "duration": 7.326255,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 8,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771875010.956255,
+            "project": "lp-ci-templates",
+            "duration": 164.057034,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771879778.066433,
+            "project": "pagespeed-insights-tracker",
+            "duration": 3.018405,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771879781.084838,
+            "project": "make-pdf-accessible",
+            "duration": 727.911349,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771880508.996187,
+            "project": "lp-ci-templates",
+            "duration": 517.774951,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771881026.771138,
+            "project": "make-pdf-accessible",
+            "duration": 193.453476,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771881220.224614,
+            "project": "lp-ci-templates",
+            "duration": 1011.452386,
+            "ai_additions": 17,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771882231.677,
+            "project": "claude-code-ec2",
+            "duration": 27.45,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771882259.127,
+            "project": "lp-ci-templates",
+            "duration": 82.205,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771882341.332,
+            "project": "claude-code-ec2",
+            "duration": 37.377636,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771882378.709636,
+            "project": "lp-ci-templates",
+            "duration": 1821.217364,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771884199.927,
+            "project": "make-pdf-accessible",
+            "duration": 61.214029,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771884261.141029,
+            "project": "lp-ci-templates",
+            "duration": 1483.063257,
+            "ai_additions": 6,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771885744.204286,
+            "project": "Terminal",
+            "duration": 6.047558,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771885750.251844,
+            "project": "starter-files",
+            "duration": 155.34655,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771885905.598394,
+            "project": "lp-ci-templates",
+            "duration": 59.595745,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771885965.194139,
+            "project": "starter-files",
+            "duration": 1150.841908,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771887116.036047,
+            "project": "lp-ci-templates",
+            "duration": 7.893942,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771887123.929989,
+            "project": "starter-files",
+            "duration": 1180.468541,
+            "ai_additions": 23,
+            "ai_deletions": 73,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771888304.39853,
+            "project": "lp-ci-templates",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-02-23T05:00:00Z",
+    "end": "2026-02-24T04:59:59Z",
+    "timezone": "America/New_York"
+}

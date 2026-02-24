@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "time": 1771444590.666053,
+            "project": "claude-code-ec2",
+            "duration": 110.765414,
+            "ai_additions": 0,
+            "ai_deletions": 1,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-02-18T05:00:00Z",
+    "end": "2026-02-19T04:59:59Z",
+    "timezone": "America/New_York"
+}

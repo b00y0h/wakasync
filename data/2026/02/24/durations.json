@@ -1,0 +1,797 @@
+{
+    "data": [
+        {
+            "time": 1771948798.995277,
+            "project": "starter-files",
+            "duration": 30.927285,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771948829.922562,
+            "project": "Terminal",
+            "duration": 396.699438,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771949226.622,
+            "project": "starter-files",
+            "duration": 41.65456,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 7,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771949268.27656,
+            "project": "1787-rollins-college-crummer",
+            "duration": 24.81744,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771949293.094,
+            "project": "starter-files",
+            "duration": 141.023906,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771949434.117906,
+            "project": "1787-rollins-college-crummer",
+            "duration": 743.890671,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950178.008577,
+            "project": "lp-ci-templates",
+            "duration": 546.871423,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950724.88,
+            "project": "starter-files",
+            "duration": 68.979335,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950793.859335,
+            "project": "1787-rollins-college-crummer",
+            "duration": 31.032665,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950824.892,
+            "project": "starter-files",
+            "duration": 59.397495,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950884.289495,
+            "project": "lp-ci-templates",
+            "duration": 67.001505,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950951.291,
+            "project": "starter-files",
+            "duration": 23.940285,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 1,
+            "color": null
+        },
+        {
+            "time": 1771950975.231285,
+            "project": "1787-rollins-college-crummer",
+            "duration": 15.630115,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771950990.8614,
+            "project": "lp-ci-templates",
+            "duration": 153.3706,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951144.232,
+            "project": "starter-files",
+            "duration": 26.194521,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951170.426521,
+            "project": "1787-rollins-college-crummer",
+            "duration": 57.914883,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951228.341404,
+            "project": "lp-ci-templates",
+            "duration": 37.209596,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951265.551,
+            "project": "starter-files",
+            "duration": 13.163011,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 3,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951278.714011,
+            "project": "1787-rollins-college-crummer",
+            "duration": 45.354475,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951324.068486,
+            "project": "lp-ci-templates",
+            "duration": 466.679514,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951790.748,
+            "project": "starter-files",
+            "duration": 15.272904,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 1,
+            "color": null
+        },
+        {
+            "time": 1771951806.020904,
+            "project": "lp-ci-templates",
+            "duration": 98.31813,
+            "ai_additions": 10,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771951904.339034,
+            "project": "1787-rollins-college-crummer",
+            "duration": 1205.930903,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771953110.269937,
+            "project": "lp-ci-templates",
+            "duration": 204.260063,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771953314.53,
+            "project": "starter-files",
+            "duration": 189.676755,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771953504.206755,
+            "project": "lp-ci-templates",
+            "duration": 61.405286,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771953565.612041,
+            "project": "1787-rollins-college-crummer",
+            "duration": 39.433598,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771953605.045639,
+            "project": "lp-ci-templates",
+            "duration": 3.9e-05,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771955701.890253,
+            "project": "lp-ci-templates",
+            "duration": 685.841452,
+            "ai_additions": 24,
+            "ai_deletions": 2,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771956387.731705,
+            "project": "1787-rollins-college-crummer",
+            "duration": 1.749259,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771956389.480964,
+            "project": "lp-ci-templates",
+            "duration": 19.062155,
+            "ai_additions": 1,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771956408.543119,
+            "project": "1787-rollins-college-crummer",
+            "duration": 189.730124,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771956598.273243,
+            "project": "Terminal",
+            "duration": 20.708283,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771956618.981526,
+            "project": "1688-1703-1704-High-Point-University-Law-Pharmacy-Grad",
+            "duration": 713.013643,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771957331.995169,
+            "project": "lp-ci-templates",
+            "duration": 570.357437,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771957902.352606,
+            "project": "1688-1703-1704-High-Point-University-Law-Pharmacy-Grad",
+            "duration": 108.570026,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771958010.922632,
+            "project": "lp-ci-templates",
+            "duration": 70.606709,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771958081.529341,
+            "project": "starter-files",
+            "duration": 723.412769,
+            "ai_additions": 1,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771958804.94211,
+            "project": "lp-ci-templates",
+            "duration": 147.111466,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771958952.053576,
+            "project": "starter-files",
+            "duration": 65.739261,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771959017.792837,
+            "project": "lp-ci-templates",
+            "duration": 868.650881,
+            "ai_additions": 18,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771959886.443718,
+            "project": "starter-files",
+            "duration": 49.454343,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771959935.898061,
+            "project": "lp-ci-templates",
+            "duration": 32.031909,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771959967.92997,
+            "project": "1688-1703-1704-High-Point-University-Law-Pharmacy-Grad",
+            "duration": 38.788513,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771960006.718483,
+            "project": "lp-ci-templates",
+            "duration": 19.993184,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771960026.711667,
+            "project": "1688-1703-1704-High-Point-University-Law-Pharmacy-Grad",
+            "duration": 223.805066,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771960250.516733,
+            "project": "lp-ci-templates",
+            "duration": 91.937521,
+            "ai_additions": 99,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771960342.454254,
+            "project": "1688-1703-1704-High-Point-University-Law-Pharmacy-Grad",
+            "duration": 73.511746,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771960415.966,
+            "project": "lp-ci-templates",
+            "duration": 1386.604936,
+            "ai_additions": 21,
+            "ai_deletions": 5,
+            "human_additions": 29,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771965596.781985,
+            "project": "lp-ci-templates",
+            "duration": 992.353309,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 3,
+            "human_deletions": 5,
+            "color": null
+        },
+        {
+            "time": 1771966589.135294,
+            "project": "Terminal",
+            "duration": 67.066824,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771966656.202118,
+            "project": "starter-files",
+            "duration": 632.786871,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771967288.988989,
+            "project": "Terminal",
+            "duration": 48.697277,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771967337.686266,
+            "project": "landing-page-index-generator",
+            "duration": 295.073734,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771967632.76,
+            "project": "starter-files",
+            "duration": 303.984688,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771967936.744688,
+            "project": "landing-page-index-generator",
+            "duration": 2.708035,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771969516.93,
+            "project": "starter-files",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 2,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771970653.0947,
+            "project": "landing-page-index-generator",
+            "duration": 272.21295,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771970925.30765,
+            "project": "Unknown Project",
+            "duration": 16.298004,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771970941.605654,
+            "project": "landing-page-index-generator",
+            "duration": 4.505675,
+            "ai_additions": 9,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771970946.111329,
+            "project": "Unknown Project",
+            "duration": 100.810856,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971046.922185,
+            "project": "landing-page-index-generator",
+            "duration": 107.698868,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971154.621053,
+            "project": "wakafetch-brew",
+            "duration": 110.324687,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971264.94574,
+            "project": "landing-page-index-generator",
+            "duration": 50.033929,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971314.979669,
+            "project": "Unknown Project",
+            "duration": 13.744424,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971328.724093,
+            "project": "landing-page-index-generator",
+            "duration": 53.329209,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971382.053302,
+            "project": "Unknown Project",
+            "duration": 11.492622,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971393.545924,
+            "project": "landing-page-index-generator",
+            "duration": 40.443579,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971433.989503,
+            "project": "wakafetch-brew",
+            "duration": 89.667133,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971523.656636,
+            "project": "landing-page-index-generator",
+            "duration": 315.78786,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771971839.444496,
+            "project": "wakafetch-brew",
+            "duration": 395.09973,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771972234.544226,
+            "project": "landing-page-index-generator",
+            "duration": 20.412675,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771972254.956901,
+            "project": "wakafetch-brew",
+            "duration": 257.435761,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771972512.392662,
+            "project": "landing-page-index-generator",
+            "duration": 578.511503,
+            "ai_additions": 61,
+            "ai_deletions": 38,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771973090.904165,
+            "project": "wakafetch-brew",
+            "duration": 36.183197,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771973127.087362,
+            "project": "wakasync",
+            "duration": 25.100341,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771973152.187703,
+            "project": "wakafetch-brew",
+            "duration": 46.717374,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771973198.905077,
+            "project": "landing-page-index-generator",
+            "duration": 71.997412,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771973270.902489,
+            "project": "wakasync",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-02-24T05:00:00Z",
+    "end": "2026-02-25T04:59:59Z",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,257 @@
+{
+    "data": [
+        {
+            "languages": [
+                {
+                    "name": "sh",
+                    "total_seconds": 5737.335059,
+                    "digital": "1:35:37",
+                    "decimal": "1.58",
+                    "text": "1 hr 35 mins",
+                    "hours": 1,
+                    "minutes": 35,
+                    "seconds": 37,
+                    "percent": 57.16
+                },
+                {
+                    "name": "Other",
+                    "total_seconds": 3466.646506,
+                    "digital": "0:57:46",
+                    "decimal": "0.95",
+                    "text": "57 mins",
+                    "hours": 0,
+                    "minutes": 57,
+                    "seconds": 46,
+                    "percent": 34.54
+                },
+                {
+                    "name": "YAML",
+                    "total_seconds": 820.95399,
+                    "digital": "0:13:40",
+                    "decimal": "0.22",
+                    "text": "13 mins",
+                    "hours": 0,
+                    "minutes": 13,
+                    "seconds": 40,
+                    "percent": 8.18
+                },
+                {
+                    "name": "SSH Config",
+                    "total_seconds": 11.669942,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.12
+                }
+            ],
+            "grand_total": {
+                "hours": 2,
+                "minutes": 47,
+                "total_seconds": 10036.605497,
+                "digital": "2:47",
+                "decimal": "2.78",
+                "text": "2 hrs 47 mins",
+                "ai_additions": 1,
+                "ai_deletions": 1,
+                "human_additions": 53,
+                "human_deletions": 11
+            },
+            "editors": [
+                {
+                    "name": "Zsh",
+                    "total_seconds": 5737.335059,
+                    "digital": "1:35:37",
+                    "decimal": "1.58",
+                    "text": "1 hr 35 mins",
+                    "hours": 1,
+                    "minutes": 35,
+                    "seconds": 37,
+                    "percent": 57.16
+                },
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 3981.111421,
+                    "digital": "1:06:21",
+                    "decimal": "1.10",
+                    "text": "1 hr 6 mins",
+                    "hours": 1,
+                    "minutes": 6,
+                    "seconds": 21,
+                    "percent": 39.67
+                },
+                {
+                    "name": "VS Code",
+                    "total_seconds": 318.159017,
+                    "digital": "0:05:18",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 18,
+                    "percent": 3.17
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 10036.605497,
+                    "digital": "2:47:16",
+                    "decimal": "2.78",
+                    "text": "2 hrs 47 mins",
+                    "hours": 2,
+                    "minutes": 47,
+                    "seconds": 16,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 6055.494076,
+                    "digital": "1:40:55",
+                    "decimal": "1.67",
+                    "text": "1 hr 40 mins",
+                    "hours": 1,
+                    "minutes": 40,
+                    "seconds": 55,
+                    "percent": 60.33
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 3981.111421,
+                    "digital": "1:06:21",
+                    "decimal": "1.10",
+                    "text": "1 hr 6 mins",
+                    "hours": 1,
+                    "minutes": 6,
+                    "seconds": 21,
+                    "percent": 39.67
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 10036.605497,
+                    "machine_name_id": "f002608f-2942-4b1c-acf3-2146f60c654b",
+                    "digital": "2:47:16",
+                    "decimal": "2.78",
+                    "text": "2 hrs 47 mins",
+                    "hours": 2,
+                    "minutes": 47,
+                    "seconds": 16,
+                    "percent": 100.0
+                }
+            ],
+            "projects": [
+                {
+                    "name": "lp-ci-templates",
+                    "total_seconds": 4358.90386,
+                    "ai_additions": 1,
+                    "ai_deletions": 1,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "1:12:38",
+                    "decimal": "1.20",
+                    "text": "1 hr 12 mins",
+                    "hours": 1,
+                    "minutes": 12,
+                    "seconds": 38,
+                    "percent": 43.43
+                },
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 3415.928928,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 53,
+                    "human_deletions": 11,
+                    "color": null,
+                    "digital": "0:56:55",
+                    "decimal": "0.93",
+                    "text": "56 mins",
+                    "hours": 0,
+                    "minutes": 56,
+                    "seconds": 55,
+                    "percent": 34.03
+                },
+                {
+                    "name": "claude-code-ec2",
+                    "total_seconds": 2083.619035,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:34:43",
+                    "decimal": "0.57",
+                    "text": "34 mins",
+                    "hours": 0,
+                    "minutes": 34,
+                    "seconds": 43,
+                    "percent": 20.76
+                },
+                {
+                    "name": "Terminal",
+                    "total_seconds": 153.667941,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:02:33",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 33,
+                    "percent": 1.53
+                },
+                {
+                    "name": "BobbySmith",
+                    "total_seconds": 24.485733,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:00:24",
+                    "decimal": "0.00",
+                    "text": "24 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "percent": 0.24
+                }
+            ],
+            "range": {
+                "start": "2026-02-20T05:00:00Z",
+                "end": "2026-02-21T04:59:59Z",
+                "date": "2026-02-20",
+                "text": "Fri Feb 20th 2026",
+                "timezone": "America/New_York"
+            }
+        }
+    ],
+    "start": "2026-02-20T05:00:00Z",
+    "end": "2026-02-21T04:59:59Z",
+    "cumulative_total": {
+        "seconds": 10036.605497,
+        "text": "2 hrs 47 mins",
+        "digital": "2:47",
+        "decimal": "2.78"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 6570,
+        "seconds_including_other_language": 10037,
+        "text": "1 hr 49 mins",
+        "text_including_other_language": "2 hrs 47 mins"
+    }
+}

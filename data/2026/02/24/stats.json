@@ -1,0 +1,127 @@
+{
+    "data": {
+        "id": "adf2bedc-7886-4ce6-bce8-02120b7987c7",
+        "user_id": "a2d08731-0b34-44c7-b82f-a096e96e8766",
+        "range": "last_7_days",
+        "start": "2026-02-17T05:00:00Z",
+        "end": "2026-02-24T04:59:59Z",
+        "timeout": 15,
+        "writes_only": false,
+        "timezone": "America/New_York",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "holidays": 6,
+        "status": "ok",
+        "created_at": "2026-02-19T11:18:50Z",
+        "modified_at": "2026-02-24T11:11:28Z",
+        "editors": [
+            {
+                "total_seconds": 1034.370362,
+                "name": "Claude Code",
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "human_readable_total": "0 secs",
+        "categories": [
+            {
+                "name": "AI Coding",
+                "total_seconds": 1034.370362,
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "is_already_updating": false,
+        "operating_systems": [
+            {
+                "total_seconds": 1034.370362,
+                "name": "Mac",
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "projects": [
+            {
+                "total_seconds": 1034.370362,
+                "name": "claude-code-ec2",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "machines": [
+            {
+                "total_seconds": 1034.370362,
+                "name": "MacBookPro.home.arpa",
+                "machine_name_id": "607bcd9c-2517-4ace-8534-3e445d59404a",
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "total_seconds_including_other_language": 1034.370362,
+        "is_up_to_date_pending_future": false,
+        "is_stuck": false,
+        "human_readable_daily_average_including_other_language": "17 mins",
+        "percent_calculated": 100,
+        "daily_average_including_other_language": 1034.0,
+        "human_readable_total_including_other_language": "17 mins",
+        "languages": [
+            {
+                "name": "Other",
+                "total_seconds": 1034.370362,
+                "percent": 100.0,
+                "digital": "0:17",
+                "decimal": "0.28",
+                "text": "17 mins",
+                "hours": 0,
+                "minutes": 17
+            }
+        ],
+        "best_day": {
+            "date": "2026-02-17",
+            "total_seconds": 1034.370362,
+            "text": "17 mins"
+        },
+        "daily_average": 0.0,
+        "total_seconds": 0.0,
+        "days_minus_holidays": 1,
+        "dependencies": [],
+        "days_including_holidays": 7,
+        "human_readable_daily_average": "0 secs",
+        "is_up_to_date": true,
+        "is_cached": true,
+        "username": null,
+        "is_including_today": false,
+        "human_readable_range": "last week",
+        "is_coding_activity_visible": false,
+        "is_language_usage_visible": false,
+        "is_editor_usage_visible": false,
+        "is_category_usage_visible": false,
+        "is_os_usage_visible": false
+    }
+}

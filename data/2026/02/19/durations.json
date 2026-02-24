@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "time": 1771514666.931735,
+            "project": "lp-ci-templates",
+            "duration": 383.044126,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771520032.052,
+            "project": "royfoo-core",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771532769.481305,
+            "project": "claude-code-ec2",
+            "duration": 472.904783,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771535739.258657,
+            "project": "wakadash",
+            "duration": 201.171591,
+            "ai_additions": 3,
+            "ai_deletions": 3,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771535940.430248,
+            "project": "claude-code-ec2",
+            "duration": 845.606735,
+            "ai_additions": 1,
+            "ai_deletions": 2,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771538623.554268,
+            "project": "lp-ci-templates",
+            "duration": 1778.443648,
+            "ai_additions": 80,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771541488.711051,
+            "project": "lp-ci-templates",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-02-19T05:00:00Z",
+    "end": "2026-02-20T04:59:59Z",
+    "timezone": "America/New_York"
+}

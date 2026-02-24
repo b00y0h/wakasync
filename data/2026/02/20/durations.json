@@ -1,0 +1,307 @@
+{
+    "data": [
+        {
+            "time": 1771599999.000497,
+            "project": "lp-ci-templates",
+            "duration": 1168.962071,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771601167.962568,
+            "project": "claude-code-ec2",
+            "duration": 289.316543,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771601457.279111,
+            "project": "royfoo-core",
+            "duration": 230.10133,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771603882.708598,
+            "project": "royfoo-core",
+            "duration": 2057.140395,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771605939.848993,
+            "project": "Terminal",
+            "duration": 29.066684,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771605968.915677,
+            "project": "BobbySmith",
+            "duration": 24.485733,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771605993.40141,
+            "project": "Terminal",
+            "duration": 71.636584,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771606065.037994,
+            "project": "royfoo-core",
+            "duration": 92.995863,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771608455.587374,
+            "project": "lp-ci-templates",
+            "duration": 16.736855,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771608472.324229,
+            "project": "royfoo-core",
+            "duration": 354.541516,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 38,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771608826.865745,
+            "project": "claude-code-ec2",
+            "duration": 10.22124,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771608837.086985,
+            "project": "Terminal",
+            "duration": 22.890877,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771608859.977862,
+            "project": "royfoo-core",
+            "duration": 185.67204,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771609045.649902,
+            "project": "lp-ci-templates",
+            "duration": 42.827098,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771609088.477,
+            "project": "royfoo-core",
+            "duration": 57.59363,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771609146.07063,
+            "project": "lp-ci-templates",
+            "duration": 129.156205,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771609275.226835,
+            "project": "royfoo-core",
+            "duration": 59.086933,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771609334.313768,
+            "project": "lp-ci-templates",
+            "duration": 1992.762232,
+            "ai_additions": 1,
+            "ai_deletions": 1,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771611327.076,
+            "project": "royfoo-core",
+            "duration": 63.31469,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 7,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771611390.39069,
+            "project": "lp-ci-templates",
+            "duration": 56.70031,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771611447.091,
+            "project": "royfoo-core",
+            "duration": 9.824057,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 8,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771611456.915057,
+            "project": "lp-ci-templates",
+            "duration": 135.515078,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771612670.330989,
+            "project": "lp-ci-templates",
+            "duration": 816.244011,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771613486.575,
+            "project": "royfoo-core",
+            "duration": 7.934777,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 2,
+            "color": null
+        },
+        {
+            "time": 1771613494.509777,
+            "project": "lp-ci-templates",
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771614921.864589,
+            "project": "claude-code-ec2",
+            "duration": 1633.018411,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771616554.883,
+            "project": "royfoo-core",
+            "duration": 68.184118,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 9,
+            "color": null
+        },
+        {
+            "time": 1771616623.067118,
+            "project": "claude-code-ec2",
+            "duration": 151.062841,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771616774.129959,
+            "project": "royfoo-core",
+            "duration": 229.539579,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1771617003.669538,
+            "project": "Terminal",
+            "duration": 30.073796,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-02-20T05:00:00Z",
+    "end": "2026-02-21T04:59:59Z",
+    "timezone": "America/New_York"
+}
