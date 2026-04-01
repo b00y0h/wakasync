@@ -1,0 +1,127 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 0,
+                "minutes": 26,
+                "total_seconds": 1585.518452,
+                "digital": "0:26",
+                "decimal": "0.43",
+                "text": "26 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0
+            },
+            "range": {
+                "start": "2026-04-01T04:00:00Z",
+                "end": "2026-04-02T03:59:59Z",
+                "date": "2026-04-01",
+                "text": "Wed Apr 1st 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 1585.518452,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "sh",
+                    "total_seconds": 1585.518452,
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 1585.518452,
+                    "machine_name_id": "590ef440-52f2-4b6c-b22f-7cb15e986f19",
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Zsh",
+                    "total_seconds": 1585.518452,
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 1585.518452,
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 1585.518452,
+                    "digital": "0:26:25",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ]
+        }
+    ],
+    "start": "2026-04-01T04:00:00Z",
+    "end": "2026-04-02T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 1585.518452,
+        "text": "26 mins",
+        "digital": "0:26",
+        "decimal": "0.43"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 1586,
+        "seconds_including_other_language": 1586,
+        "text": "26 mins",
+        "text_including_other_language": "26 mins"
+    }
+}

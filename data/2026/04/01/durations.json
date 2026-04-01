@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "time": 1775016000.0,
+            "project": "royfoo-core",
+            "duration": 308.187679,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        },
+        {
+            "time": 1775017502.767669,
+            "project": "royfoo-core",
+            "duration": 1277.330773,
+            "ai_additions": 0,
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "color": null
+        }
+    ],
+    "start": "2026-04-01T04:00:00Z",
+    "end": "2026-04-02T03:59:59Z",
+    "timezone": "America/New_York"
+}
