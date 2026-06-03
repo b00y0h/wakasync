@@ -1,0 +1,540 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 0,
+                "minutes": 32,
+                "total_seconds": 1965.0,
+                "digital": "0:32",
+                "decimal": "0.53",
+                "text": "32 mins",
+                "ai_additions": 278,
+                "ai_deletions": 30,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_agent_line_changes": {
+                    "Claude": 308
+                },
+                "ai_input_tokens": 25701157,
+                "ai_output_tokens": 44696,
+                "ai_prompt_length_sum": 592,
+                "ai_prompt_events_total": 4,
+                "ai_sessions": 1,
+                "ai_agent_costs": {
+                    "Claude": 73.979866
+                },
+                "ai_agent_breakdown": [
+                    {
+                        "name": "Claude",
+                        "lines": 308,
+                        "cost": 73.979866
+                    }
+                ],
+                "ai_agent_total_cost": 73.979866,
+                "ai_prompt_length_avg": 148,
+                "ai_prompt_events_avg_per_session": 4,
+                "ai_prompt_events_median_per_session": 4,
+                "ai_prompt_length_avg_per_session": 148,
+                "ai_prompt_length_median_per_session": 148
+            },
+            "range": {
+                "start": "2026-06-03T04:00:00Z",
+                "end": "2026-06-04T03:59:59Z",
+                "date": "2026-06-03",
+                "text": "Wed Jun 3rd 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 1965.0,
+                    "ai_additions": 278,
+                    "ai_deletions": 30,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {
+                        "Claude": 308
+                    },
+                    "ai_input_tokens": 25701157,
+                    "ai_output_tokens": 44696,
+                    "ai_prompt_length_sum": 592,
+                    "ai_prompt_events_total": 4,
+                    "color": null,
+                    "ai_agent_costs": {
+                        "Claude": 73.979866
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Claude",
+                            "lines": 308,
+                            "cost": 73.979866
+                        }
+                    ],
+                    "ai_agent_total_cost": 73.979866,
+                    "ai_prompt_length_avg": 148,
+                    "ai_prompt_length_avg_per_session": 148,
+                    "ai_prompt_length_median_per_session": 148,
+                    "ai_prompt_events_avg_per_session": 4,
+                    "ai_prompt_events_median_per_session": 4,
+                    "ai_sessions": 1,
+                    "digital": "0:32:45",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 45,
+                    "percent": 100.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "TypeScript",
+                    "total_seconds": 1965.0,
+                    "digital": "0:32:45",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 45,
+                    "percent": 100.0
+                }
+            ],
+            "dependencies": [
+                {
+                    "name": "payload",
+                    "total_seconds": 1645.0,
+                    "digital": "0:27:25",
+                    "decimal": "0.45",
+                    "text": "27 mins",
+                    "hours": 0,
+                    "minutes": 27,
+                    "seconds": 25,
+                    "percent": 64.21
+                },
+                {
+                    "name": "mongoose",
+                    "total_seconds": 66.941007,
+                    "digital": "0:01:06",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 6,
+                    "percent": 2.61
+                },
+                {
+                    "name": "tenant-registry-schema",
+                    "total_seconds": 59.026865,
+                    "digital": "0:00:59",
+                    "decimal": "0.00",
+                    "text": "59 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 59,
+                    "percent": 2.3
+                },
+                {
+                    "name": "multi-tenant-core",
+                    "total_seconds": 51.058991,
+                    "digital": "0:00:51",
+                    "decimal": "0.00",
+                    "text": "51 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "percent": 1.99
+                },
+                {
+                    "name": "connection-cache",
+                    "total_seconds": 48.941001,
+                    "digital": "0:00:48",
+                    "decimal": "0.00",
+                    "text": "48 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "percent": 1.91
+                },
+                {
+                    "name": "cp-models",
+                    "total_seconds": 45.941001,
+                    "digital": "0:00:45",
+                    "decimal": "0.00",
+                    "text": "45 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 45,
+                    "percent": 1.79
+                },
+                {
+                    "name": "tenantProvisioning",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "aiUsage",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "PackGraphs",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "mongodb-memory-server",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "domains",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "AIUsage",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "richtext-lexical",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "PlatformAISettings",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "url",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "packGraphVersioning",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "path",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "APIKeys",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "platformAISettings",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "sharp",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "Users",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "apiKeys",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "db-mongodb",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "TenantRegistries",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "Domains",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "tenantAIConfig",
+                    "total_seconds": 32.0,
+                    "digital": "0:00:32",
+                    "decimal": "0.00",
+                    "text": "32 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "percent": 1.25
+                },
+                {
+                    "name": "crypto",
+                    "total_seconds": 5.0,
+                    "digital": "0:00:05",
+                    "decimal": "0.00",
+                    "text": "5 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "percent": 0.2
+                }
+            ],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 1965.0,
+                    "machine_name_id": "892ec90c-71d4-459e-a74e-bf9c9055d722",
+                    "digital": "0:32:45",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 45,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 1565.6932,
+                    "ai_additions": 265,
+                    "ai_deletions": 30,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {
+                        "Claude": 295
+                    },
+                    "ai_input_tokens": 18996580,
+                    "ai_output_tokens": 34844,
+                    "ai_prompt_length_sum": 428,
+                    "ai_prompt_events_total": 3,
+                    "ai_agent_costs": {
+                        "Claude": 54.707511
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Claude",
+                            "lines": 295,
+                            "cost": 54.707511
+                        }
+                    ],
+                    "ai_agent_total_cost": 54.707511,
+                    "ai_prompt_length_avg": 143,
+                    "ai_prompt_length_avg_per_session": 143,
+                    "ai_prompt_length_median_per_session": 143,
+                    "ai_prompt_events_avg_per_session": 3,
+                    "ai_prompt_events_median_per_session": 3,
+                    "ai_sessions": 1,
+                    "digital": "0:26:05",
+                    "decimal": "0.43",
+                    "text": "26 mins",
+                    "hours": 0,
+                    "minutes": 26,
+                    "seconds": 5,
+                    "percent": 79.68
+                },
+                {
+                    "name": "VS Code",
+                    "total_seconds": 399.3068,
+                    "ai_additions": 13,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {
+                        "Claude": 13
+                    },
+                    "ai_input_tokens": 6704577,
+                    "ai_output_tokens": 9852,
+                    "ai_prompt_length_sum": 164,
+                    "ai_prompt_events_total": 1,
+                    "ai_agent_costs": {
+                        "Claude": 19.272355
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Claude",
+                            "lines": 13,
+                            "cost": 19.272355
+                        }
+                    ],
+                    "ai_agent_total_cost": 19.272355,
+                    "ai_prompt_length_avg": 164,
+                    "ai_prompt_length_avg_per_session": 164,
+                    "ai_prompt_length_median_per_session": 164,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 1,
+                    "digital": "0:06:39",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 39,
+                    "percent": 20.32
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 1965.0,
+                    "digital": "0:32:45",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 45,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 1965.0,
+                    "digital": "0:32:45",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 45,
+                    "percent": 100.0
+                }
+            ]
+        }
+    ],
+    "start": "2026-06-03T04:00:00Z",
+    "end": "2026-06-04T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 1965.0,
+        "text": "32 mins",
+        "digital": "0:32",
+        "decimal": "0.53"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 1965,
+        "seconds_including_other_language": 1965,
+        "text": "32 mins",
+        "text_including_other_language": "32 mins"
+    }
+}
