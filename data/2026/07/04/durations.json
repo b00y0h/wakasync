@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "time": 1783137600.0,
+            "project": "leadlord",
+            "ai_input_tokens": 18587862,
+            "ai_output_tokens": 117271,
+            "duration": 3924.0,
+            "ai_additions": 582,
+            "ai_agent_line_changes": {
+                "Fable": 462,
+                "Claude": 123
+            },
+            "ai_deletions": 3,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Opus": 4.15206,
+                "Fable": 54.83967
+            },
+            "ai_sessions": 2,
+            "ai_prompt_length_sum": 3639,
+            "ai_prompt_events_total": 12,
+            "ai_prompt_length_avg": 303,
+            "ai_prompt_events_avg_per_session": 6,
+            "ai_prompt_events_median_per_session": 6,
+            "ai_prompt_length_avg_per_session": 303,
+            "ai_prompt_length_median_per_session": 303,
+            "color": null
+        },
+        {
+            "time": 1783145041.0,
+            "project": "leadlord",
+            "ai_input_tokens": 50369650,
+            "ai_output_tokens": 166900,
+            "duration": 4929.561298,
+            "ai_additions": 2002,
+            "ai_agent_line_changes": {
+                "Fable": 255,
+                "Claude": 559
+            },
+            "ai_deletions": 16,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Fable": 73.165239
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 1289,
+            "ai_prompt_events_total": 13,
+            "ai_prompt_length_avg": 99,
+            "ai_prompt_events_avg_per_session": 13,
+            "ai_prompt_events_median_per_session": 13,
+            "ai_prompt_length_avg_per_session": 99,
+            "ai_prompt_length_median_per_session": 99,
+            "color": null
+        }
+    ],
+    "start": "2026-07-04T04:00:00Z",
+    "end": "2026-07-05T03:59:59Z",
+    "timezone": "America/New_York"
+}
