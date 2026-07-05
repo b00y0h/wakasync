@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 0,
+                "minutes": 21,
+                "total_seconds": 1319.23739,
+                "digital": "0:21",
+                "decimal": "0.35",
+                "text": "21 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_agent_line_changes": {},
+                "ai_input_tokens": 2171571,
+                "ai_output_tokens": 10818,
+                "ai_prompt_length_sum": 161,
+                "ai_prompt_events_total": 8,
+                "ai_sessions": 1,
+                "ai_agent_costs": {
+                    "Fable": 6.676983
+                },
+                "ai_agent_breakdown": [
+                    {
+                        "name": "Fable",
+                        "lines": 0,
+                        "cost": 6.676983
+                    }
+                ],
+                "ai_agent_total_cost": 6.676983,
+                "ai_prompt_length_avg": 20,
+                "ai_prompt_events_avg_per_session": 8,
+                "ai_prompt_events_median_per_session": 8,
+                "ai_prompt_length_avg_per_session": 20,
+                "ai_prompt_length_median_per_session": 20
+            },
+            "range": {
+                "start": "2026-07-05T04:00:00Z",
+                "end": "2026-07-06T03:59:59Z",
+                "date": "2026-07-05",
+                "text": "Sun Jul 5th 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "leadlord",
+                    "total_seconds": 1319.23739,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 2171571,
+                    "ai_output_tokens": 10818,
+                    "ai_prompt_length_sum": 161,
+                    "ai_prompt_events_total": 8,
+                    "color": null,
+                    "ai_agent_costs": {
+                        "Fable": 6.676983
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Fable",
+                            "lines": 0,
+                            "cost": 6.676983
+                        }
+                    ],
+                    "ai_agent_total_cost": 6.676983,
+                    "ai_prompt_length_avg": 20,
+                    "ai_prompt_length_avg_per_session": 20,
+                    "ai_prompt_length_median_per_session": 20,
+                    "ai_prompt_events_avg_per_session": 8,
+                    "ai_prompt_events_median_per_session": 8,
+                    "ai_sessions": 1,
+                    "digital": "0:21:59",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 59,
+                    "percent": 100.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Markdown",
+                    "total_seconds": 1148.0,
+                    "digital": "0:19:08",
+                    "decimal": "0.32",
+                    "text": "19 mins",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 8,
+                    "percent": 87.02
+                },
+                {
+                    "name": "sh",
+                    "total_seconds": 171.23739,
+                    "digital": "0:02:51",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 51,
+                    "percent": 12.98
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 1319.23739,
+                    "machine_name_id": "77d0054a-9910-4b8e-8251-80fb57669102",
+                    "digital": "0:21:59",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 59,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 749.918782,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 2171571,
+                    "ai_output_tokens": 10818,
+                    "ai_prompt_length_sum": 161,
+                    "ai_prompt_events_total": 8,
+                    "ai_agent_costs": {
+                        "Fable": 6.676983
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Fable",
+                            "lines": 0,
+                            "cost": 6.676983
+                        }
+                    ],
+                    "ai_agent_total_cost": 6.676983,
+                    "ai_prompt_length_avg": 20,
+                    "ai_prompt_length_avg_per_session": 20,
+                    "ai_prompt_length_median_per_session": 20,
+                    "ai_prompt_events_avg_per_session": 8,
+                    "ai_prompt_events_median_per_session": 8,
+                    "ai_sessions": 1,
+                    "digital": "0:12:29",
+                    "decimal": "0.20",
+                    "text": "12 mins",
+                    "hours": 0,
+                    "minutes": 12,
+                    "seconds": 29,
+                    "percent": 56.84
+                },
+                {
+                    "name": "Zsh",
+                    "total_seconds": 324.19118,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:05:24",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 24,
+                    "percent": 24.57
+                },
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 245.127428,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:04:05",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 5,
+                    "percent": 18.58
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 1319.23739,
+                    "digital": "0:21:59",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 59,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 1148.0,
+                    "digital": "0:19:08",
+                    "decimal": "0.32",
+                    "text": "19 mins",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 8,
+                    "percent": 87.02
+                },
+                {
+                    "name": "Coding",
+                    "total_seconds": 171.23739,
+                    "digital": "0:02:51",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 51,
+                    "percent": 12.98
+                }
+            ]
+        }
+    ],
+    "start": "2026-07-05T04:00:00Z",
+    "end": "2026-07-06T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 1319.23739,
+        "text": "21 mins",
+        "digital": "0:21",
+        "decimal": "0.35"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 1319,
+        "seconds_including_other_language": 1319,
+        "text": "21 mins",
+        "text_including_other_language": "21 mins"
+    }
+}

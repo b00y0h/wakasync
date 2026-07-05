@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "time": 1783224883.76261,
+            "project": "leadlord",
+            "ai_input_tokens": 2171571,
+            "ai_output_tokens": 10818,
+            "duration": 1319.23739,
+            "ai_additions": 0,
+            "ai_agent_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Fable": 6.676983
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 161,
+            "ai_prompt_events_total": 8,
+            "ai_prompt_length_avg": 20,
+            "ai_prompt_events_avg_per_session": 8,
+            "ai_prompt_events_median_per_session": 8,
+            "ai_prompt_length_avg_per_session": 20,
+            "ai_prompt_length_median_per_session": 20,
+            "color": null
+        }
+    ],
+    "start": "2026-07-05T04:00:00Z",
+    "end": "2026-07-06T03:59:59Z",
+    "timezone": "America/New_York"
+}
