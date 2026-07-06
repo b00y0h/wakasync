@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "time": 1783310400.0,
+            "project": "vault",
+            "ai_input_tokens": 1366718,
+            "ai_output_tokens": 25038,
+            "duration": 1517.992954,
+            "ai_additions": 1070,
+            "ai_agent_line_changes": {
+                "Fable": 1059,
+                "Claude": 11
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Fable": 2.961963,
+                "Opus": 2.522935
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 215,
+            "ai_prompt_events_total": 3,
+            "ai_prompt_length_avg": 72,
+            "ai_prompt_events_avg_per_session": 3,
+            "ai_prompt_events_median_per_session": 3,
+            "ai_prompt_length_avg_per_session": 72,
+            "ai_prompt_length_median_per_session": 72,
+            "color": null
+        }
+    ],
+    "start": "2026-07-06T04:00:00Z",
+    "end": "2026-07-07T03:59:59Z",
+    "timezone": "America/New_York"
+}
