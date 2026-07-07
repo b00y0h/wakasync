@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "time": 1783396800.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 164.0,
+            "ai_additions": 0,
+            "ai_agent_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 321,
+            "ai_prompt_events_total": 1,
+            "ai_prompt_length_avg": 321,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 321,
+            "ai_prompt_length_median_per_session": 321,
+            "color": null
+        },
+        {
+            "time": 1783396964.0,
+            "project": "github",
+            "ai_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 26.0,
+            "ai_additions": 0,
+            "ai_agent_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 321,
+            "ai_prompt_events_total": 1,
+            "ai_prompt_length_avg": 321,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 321,
+            "ai_prompt_length_median_per_session": 321,
+            "color": null
+        },
+        {
+            "time": 1783396990.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 47539661,
+            "ai_output_tokens": 300209,
+            "duration": 14423.507598,
+            "ai_additions": 840,
+            "ai_agent_line_changes": {
+                "Claude": 81,
+                "Opus": 94
+            },
+            "ai_deletions": 24,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_agent_costs": {
+                "Opus": 197.107495
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 21406,
+            "ai_prompt_events_total": 41,
+            "ai_prompt_length_avg": 522,
+            "ai_prompt_events_avg_per_session": 14,
+            "ai_prompt_events_median_per_session": 7,
+            "ai_prompt_length_avg_per_session": 705,
+            "ai_prompt_length_median_per_session": 282,
+            "color": null
+        }
+    ],
+    "start": "2026-07-07T04:00:00Z",
+    "end": "2026-07-08T03:59:59Z",
+    "timezone": "America/New_York"
+}
