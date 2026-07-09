@@ -51,7 +51,7 @@ data/
 1. Fork or copy this repo to your GitHub account
 2. Add your WakaTime API key as a repository secret named `WAKATIME_API_KEY`
 3. The workflow runs automatically at 11:55 PM UTC daily, or trigger manually via Actions tab
-4. Set [TimeZone](https://wakatime.com/settings/) to UTC as Github's action runner, by default, handles time in UTC, This rule still aplies even when being ran locally as the sync.sh script explicitly calls for {date -u}. Failing to do this will cause the sync to fail. (A more reobust solution to handle timezones programatically is being brainstormed and plannd)
+4. Set [TimeZone](https://wakatime.com/settings/preferences) to UTC as Github's action runner, by default, handles time in UTC, This rule still aplies even when being ran locally as the sync.sh script explicitly calls for {date -u}. Failing to do this will cause the sync to fail. (A more reobust solution to handle timezones programatically is being brainstormed and plannd)
 
 ### Finding Your API Key
 
