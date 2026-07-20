@@ -1,7 +1,7 @@
 name: Sync WakaTime Data
 on:
   schedule:
-    - cron: '55 4 * * *' # 11:55 PM ET (04:55 UTC)
+    - cron: '55 4 * * *' # 04:55 UTC (Converts To 11:55 PM ET)
   workflow_dispatch:
 
 permissions:
