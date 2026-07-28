@@ -1,0 +1,343 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 1,
+                "minutes": 22,
+                "total_seconds": 4924.87232,
+                "digital": "1:22",
+                "decimal": "1.37",
+                "text": "1 hr 22 mins",
+                "ai_additions": 464,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opus": 421,
+                    "Claude": 43
+                },
+                "ai_input_tokens": 27525260,
+                "ai_output_tokens": 99324,
+                "ai_prompt_length_sum": 8169,
+                "ai_prompt_events_total": 15,
+                "ai_sessions": 5,
+                "ai_model_costs": {
+                    "Opus": 140.1094
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opus",
+                        "lines": 421,
+                        "cost": 140.1094
+                    },
+                    {
+                        "name": "Claude",
+                        "lines": 43,
+                        "cost": 0.0
+                    }
+                ],
+                "ai_model_total_cost": 140.1094,
+                "ai_prompt_length_avg": 545,
+                "ai_prompt_events_avg_per_session": 3,
+                "ai_prompt_events_median_per_session": 1,
+                "ai_prompt_length_avg_per_session": 912,
+                "ai_prompt_length_median_per_session": 502
+            },
+            "range": {
+                "start": "2026-07-28T04:00:00Z",
+                "end": "2026-07-29T03:59:59Z",
+                "date": "2026-07-28",
+                "text": "Tue Jul 28th 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 4924.87232,
+                    "ai_additions": 464,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 421,
+                        "Claude": 43
+                    },
+                    "ai_input_tokens": 27525260,
+                    "ai_output_tokens": 99324,
+                    "ai_prompt_length_sum": 8169,
+                    "ai_prompt_events_total": 15,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 140.1094
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 421,
+                            "cost": 140.1094
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 43,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 140.1094,
+                    "ai_prompt_length_avg": 545,
+                    "ai_prompt_length_avg_per_session": 912,
+                    "ai_prompt_length_median_per_session": 502,
+                    "ai_prompt_events_avg_per_session": 3,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 5,
+                    "digital": "1:22:04",
+                    "decimal": "1.37",
+                    "text": "1 hr 22 mins",
+                    "hours": 1,
+                    "minutes": 22,
+                    "seconds": 4,
+                    "percent": 100.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Bash",
+                    "total_seconds": 2646.37132,
+                    "digital": "0:44:06",
+                    "decimal": "0.73",
+                    "text": "44 mins",
+                    "hours": 0,
+                    "minutes": 44,
+                    "seconds": 6,
+                    "percent": 53.73
+                },
+                {
+                    "name": "TypeScript",
+                    "total_seconds": 1921.354,
+                    "digital": "0:32:01",
+                    "decimal": "0.53",
+                    "text": "32 mins",
+                    "hours": 0,
+                    "minutes": 32,
+                    "seconds": 1,
+                    "percent": 39.01
+                },
+                {
+                    "name": "Other",
+                    "total_seconds": 340.104,
+                    "digital": "0:05:40",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 40,
+                    "percent": 6.91
+                },
+                {
+                    "name": "JavaScript",
+                    "total_seconds": 17.043,
+                    "digital": "0:00:17",
+                    "decimal": "0.00",
+                    "text": "17 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "percent": 0.35
+                }
+            ],
+            "dependencies": [
+                {
+                    "name": "blocks",
+                    "total_seconds": 210.760312,
+                    "digital": "0:03:30",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 30,
+                    "percent": 37.75
+                },
+                {
+                    "name": "vitest",
+                    "total_seconds": 149.127998,
+                    "digital": "0:02:29",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 29,
+                    "percent": 26.71
+                },
+                {
+                    "name": "payload-errors",
+                    "total_seconds": 138.995,
+                    "digital": "0:02:18",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 18,
+                    "percent": 24.9
+                },
+                {
+                    "name": "withPayload",
+                    "total_seconds": 17.043,
+                    "digital": "0:00:17",
+                    "decimal": "0.00",
+                    "text": "17 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "percent": 3.05
+                },
+                {
+                    "name": "zod",
+                    "total_seconds": 11.960668,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 2.14
+                },
+                {
+                    "name": "node:path",
+                    "total_seconds": 10.132998,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 1.82
+                },
+                {
+                    "name": "node:url",
+                    "total_seconds": 10.132998,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 1.82
+                },
+                {
+                    "name": "node:fs",
+                    "total_seconds": 10.132998,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 1.82
+                }
+            ],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 4924.87232,
+                    "machine_name_id": "cf5fe353-7c95-4bfb-91ba-f7029f5abba1",
+                    "digital": "1:22:04",
+                    "decimal": "1.37",
+                    "text": "1 hr 22 mins",
+                    "hours": 1,
+                    "minutes": 22,
+                    "seconds": 4,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 4924.87232,
+                    "ai_additions": 464,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 421,
+                        "Claude": 43
+                    },
+                    "ai_input_tokens": 27525260,
+                    "ai_output_tokens": 99324,
+                    "ai_prompt_length_sum": 8169,
+                    "ai_prompt_events_total": 15,
+                    "ai_model_costs": {
+                        "Opus": 140.1094
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 421,
+                            "cost": 140.1094
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 43,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 140.1094,
+                    "ai_prompt_length_avg": 545,
+                    "ai_prompt_length_avg_per_session": 912,
+                    "ai_prompt_length_median_per_session": 502,
+                    "ai_prompt_events_avg_per_session": 3,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 5,
+                    "digital": "1:22:04",
+                    "decimal": "1.37",
+                    "text": "1 hr 22 mins",
+                    "hours": 1,
+                    "minutes": 22,
+                    "seconds": 4,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 4924.87232,
+                    "digital": "1:22:04",
+                    "decimal": "1.37",
+                    "text": "1 hr 22 mins",
+                    "hours": 1,
+                    "minutes": 22,
+                    "seconds": 4,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 4924.87232,
+                    "digital": "1:22:04",
+                    "decimal": "1.37",
+                    "text": "1 hr 22 mins",
+                    "hours": 1,
+                    "minutes": 22,
+                    "seconds": 4,
+                    "percent": 100.0
+                }
+            ]
+        }
+    ],
+    "start": "2026-07-28T04:00:00Z",
+    "end": "2026-07-29T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 4924.87232,
+        "text": "1 hr 22 mins",
+        "digital": "1:22",
+        "decimal": "1.37"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 4585,
+        "seconds_including_other_language": 4925,
+        "text": "1 hr 16 mins",
+        "text_including_other_language": "1 hr 22 mins"
+    }
+}

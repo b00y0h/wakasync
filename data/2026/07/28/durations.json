@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "time": 1785211200.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 12969106,
+            "ai_output_tokens": 39583,
+            "duration": 1921.354,
+            "ai_additions": 276,
+            "ai_model_line_changes": {
+                "Opus": 233,
+                "Claude": 43
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 65.835105
+            },
+            "ai_sessions": 4,
+            "ai_prompt_length_sum": 5191,
+            "ai_prompt_events_total": 9,
+            "color": null,
+            "ai_prompt_length_avg": 577,
+            "ai_prompt_events_avg_per_session": 2,
+            "ai_prompt_events_median_per_session": 2,
+            "ai_prompt_length_avg_per_session": 643,
+            "ai_prompt_length_median_per_session": 645
+        },
+        {
+            "time": 1785214880.175,
+            "project": "royfoo-core",
+            "ai_input_tokens": 1627112,
+            "ai_output_tokens": 6321,
+            "duration": 340.104,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 8.293585
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 189,
+            "ai_prompt_events_total": 3,
+            "color": null,
+            "ai_prompt_length_avg": 63,
+            "ai_prompt_events_avg_per_session": 3,
+            "ai_prompt_events_median_per_session": 3,
+            "ai_prompt_length_avg_per_session": 63,
+            "ai_prompt_length_median_per_session": 63
+        },
+        {
+            "time": 1785216153.52368,
+            "project": "royfoo-core",
+            "ai_input_tokens": 11921663,
+            "ai_output_tokens": 50879,
+            "duration": 2646.37132,
+            "ai_additions": 162,
+            "ai_model_line_changes": {
+                "Opus": 162
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 60.88029
+            },
+            "ai_sessions": 2,
+            "ai_prompt_length_sum": 2789,
+            "ai_prompt_events_total": 3,
+            "color": null,
+            "ai_prompt_length_avg": 930,
+            "ai_prompt_events_avg_per_session": 2,
+            "ai_prompt_events_median_per_session": 2,
+            "ai_prompt_length_avg_per_session": 1384,
+            "ai_prompt_length_median_per_session": 1384
+        },
+        {
+            "time": 1785219778.705,
+            "project": "royfoo-core",
+            "ai_input_tokens": 397061,
+            "ai_output_tokens": 772,
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 2.004605
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1785220753.027,
+            "project": "royfoo-core",
+            "ai_input_tokens": 401476,
+            "ai_output_tokens": 719,
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 2.025355
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1785221705.381,
+            "project": "royfoo-core",
+            "ai_input_tokens": 208842,
+            "ai_output_tokens": 1050,
+            "duration": 17.043,
+            "ai_additions": 26,
+            "ai_model_line_changes": {
+                "Opus": 26
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 1.07046
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-07-28T04:00:00Z",
+    "end": "2026-07-29T03:59:59Z",
+    "timezone": "America/New_York"
+}
