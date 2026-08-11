@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "time": 1786420800.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 24834,
+            "ai_cached_input_tokens": 4265808,
+            "ai_output_tokens": 10443,
+            "duration": 803.831,
+            "ai_additions": 91,
+            "ai_model_line_changes": {
+                "Opus": 19,
+                "Claude": 72
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 2.518149
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-08-11T04:00:00Z",
+    "end": "2026-08-12T03:59:59Z",
+    "timezone": "America/New_York"
+}
