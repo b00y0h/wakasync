@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "time": 1788321600.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 2812,
+            "ai_cached_input_tokens": 2150315,
+            "ai_output_tokens": 2450,
+            "duration": 411.032,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 1.150469
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 24,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 24,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 24,
+            "ai_prompt_length_median_per_session": 24
+        },
+        {
+            "time": 1788322952.609,
+            "project": "royfoo-core",
+            "ai_input_tokens": 11095,
+            "ai_cached_input_tokens": 9765985,
+            "ai_output_tokens": 8942,
+            "duration": 339.92,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 5.162019
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 246,
+            "ai_prompt_events_total": 4,
+            "color": null,
+            "ai_prompt_length_avg": 62,
+            "ai_prompt_events_avg_per_session": 4,
+            "ai_prompt_events_median_per_session": 4,
+            "ai_prompt_length_avg_per_session": 62,
+            "ai_prompt_length_median_per_session": 62
+        },
+        {
+            "time": 1788324522.128768,
+            "project": "royfoo-core",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-09-02T04:00:00Z",
+    "end": "2026-09-03T03:59:59Z",
+    "timezone": "America/New_York"
+}
