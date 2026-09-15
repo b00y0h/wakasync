@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "time": 1789448046.258013,
+            "project": "royfoo-core",
+            "ai_input_tokens": 108941,
+            "ai_cached_input_tokens": 1979542,
+            "ai_output_tokens": 6742,
+            "duration": 880.057987,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 1.703025
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1789450657.529,
+            "project": "royfoo-core",
+            "ai_input_tokens": 326559,
+            "ai_cached_input_tokens": 8371680,
+            "ai_output_tokens": 20596,
+            "duration": 453.883,
+            "ai_additions": 347,
+            "ai_model_line_changes": {
+                "Opus": 233,
+                "Claude": 114
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 6.333536
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 63,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 63,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 63,
+            "ai_prompt_length_median_per_session": 63
+        }
+    ],
+    "start": "2026-09-15T04:00:00Z",
+    "end": "2026-09-16T03:59:59Z",
+    "timezone": "America/New_York"
+}
