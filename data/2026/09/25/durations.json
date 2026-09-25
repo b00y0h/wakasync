@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "time": 1790310431.345192,
+            "project": "royfoo-core",
+            "ai_input_tokens": 737708,
+            "ai_cached_input_tokens": 23019118,
+            "ai_output_tokens": 59800,
+            "duration": 1880.902771,
+            "ai_additions": 164,
+            "ai_model_line_changes": {
+                "Opus": 164
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 16.6931
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 46,
+            "ai_prompt_events_total": 2,
+            "color": null,
+            "ai_prompt_length_avg": 23,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 23,
+            "ai_prompt_length_median_per_session": 23
+        },
+        {
+            "time": 1790320890.385744,
+            "project": "royfoo-core",
+            "ai_input_tokens": 462431,
+            "ai_cached_input_tokens": 2535710,
+            "ai_output_tokens": 3731,
+            "duration": 85.218256,
+            "ai_additions": 2,
+            "ai_model_line_changes": {
+                "Opus": 2
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 3.673285
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1790328255.593211,
+            "project": "royfoo-core",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.0,
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-09-25T04:00:00Z",
+    "end": "2026-09-26T03:59:59Z",
+    "timezone": "America/New_York"
+}
