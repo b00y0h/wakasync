@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 1,
+                "minutes": 47,
+                "total_seconds": 6469.085549,
+                "digital": "1:47",
+                "decimal": "1.78",
+                "text": "1 hr 47 mins",
+                "ai_additions": 47,
+                "ai_deletions": 0,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opus": 47
+                },
+                "ai_input_tokens": 872254,
+                "ai_cached_input_tokens": 33347209,
+                "ai_output_tokens": 19076,
+                "ai_prompt_length_sum": 63558,
+                "ai_prompt_events_total": 15,
+                "ai_sessions": 1,
+                "ai_model_costs": {
+                    "Opus": 9.684341,
+                    "Sonnet": 0.556526
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opus",
+                        "lines": 47,
+                        "cost": 9.684341,
+                        "input_tokens": 724259,
+                        "output_tokens": 18764,
+                        "cached_input_tokens": 32060128
+                    },
+                    {
+                        "name": "Sonnet",
+                        "lines": 0,
+                        "cost": 0.556526,
+                        "input_tokens": 147995,
+                        "output_tokens": 312,
+                        "cached_input_tokens": 1287081
+                    },
+                    {
+                        "name": "Claude",
+                        "lines": 0,
+                        "cost": 0.0,
+                        "input_tokens": 0,
+                        "output_tokens": 0,
+                        "cached_input_tokens": 0
+                    }
+                ],
+                "ai_model_total_cost": 10.240867,
+                "ai_prompt_length_avg": 4237,
+                "ai_prompt_events_avg_per_session": 15,
+                "ai_prompt_events_median_per_session": 15,
+                "ai_prompt_length_avg_per_session": 4237,
+                "ai_prompt_length_median_per_session": 4237
+            },
+            "range": {
+                "start": "2026-10-15T04:00:00Z",
+                "end": "2026-10-16T03:59:59Z",
+                "date": "2026-10-15",
+                "text": "Thu Oct 15th 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 6469.085549,
+                    "ai_additions": 47,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 47
+                    },
+                    "ai_input_tokens": 872254,
+                    "ai_cached_input_tokens": 33347209,
+                    "ai_output_tokens": 19076,
+                    "ai_prompt_length_sum": 63558,
+                    "ai_prompt_events_total": 15,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 9.684341,
+                        "Sonnet": 0.556526
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 47,
+                            "cost": 9.684341,
+                            "input_tokens": 724259,
+                            "output_tokens": 18764,
+                            "cached_input_tokens": 32060128
+                        },
+                        {
+                            "name": "Sonnet",
+                            "lines": 0,
+                            "cost": 0.556526,
+                            "input_tokens": 147995,
+                            "output_tokens": 312,
+                            "cached_input_tokens": 1287081
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 10.240867,
+                    "ai_prompt_length_avg": 4237,
+                    "ai_prompt_length_avg_per_session": 4237,
+                    "ai_prompt_length_median_per_session": 4237,
+                    "ai_prompt_events_avg_per_session": 15,
+                    "ai_prompt_events_median_per_session": 15,
+                    "ai_sessions": 1,
+                    "digital": "1:47:49",
+                    "decimal": "1.78",
+                    "text": "1 hr 47 mins",
+                    "hours": 1,
+                    "minutes": 47,
+                    "seconds": 49,
+                    "percent": 100.0
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Markdown",
+                    "total_seconds": 4418.11,
+                    "digital": "1:13:38",
+                    "decimal": "1.22",
+                    "text": "1 hr 13 mins",
+                    "hours": 1,
+                    "minutes": 13,
+                    "seconds": 38,
+                    "percent": 68.3
+                },
+                {
+                    "name": "Other",
+                    "total_seconds": 2050.975549,
+                    "digital": "0:34:10",
+                    "decimal": "0.57",
+                    "text": "34 mins",
+                    "hours": 0,
+                    "minutes": 34,
+                    "seconds": 10,
+                    "percent": 31.7
+                }
+            ],
+            "dependencies": [],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 6469.085549,
+                    "machine_name_id": "dcb9f2ba-ddab-447c-bf55-d0e82f6cda81",
+                    "digital": "1:47:49",
+                    "decimal": "1.78",
+                    "text": "1 hr 47 mins",
+                    "hours": 1,
+                    "minutes": 47,
+                    "seconds": 49,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 6469.085549,
+                    "ai_additions": 47,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 47
+                    },
+                    "ai_input_tokens": 872254,
+                    "ai_cached_input_tokens": 33347209,
+                    "ai_output_tokens": 19076,
+                    "ai_prompt_length_sum": 63558,
+                    "ai_prompt_events_total": 15,
+                    "ai_model_costs": {
+                        "Opus": 9.684341,
+                        "Sonnet": 0.556526
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 47,
+                            "cost": 9.684341,
+                            "input_tokens": 724259,
+                            "output_tokens": 18764,
+                            "cached_input_tokens": 32060128
+                        },
+                        {
+                            "name": "Sonnet",
+                            "lines": 0,
+                            "cost": 0.556526,
+                            "input_tokens": 147995,
+                            "output_tokens": 312,
+                            "cached_input_tokens": 1287081
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 10.240867,
+                    "ai_prompt_length_avg": 4237,
+                    "ai_prompt_length_avg_per_session": 4237,
+                    "ai_prompt_length_median_per_session": 4237,
+                    "ai_prompt_events_avg_per_session": 15,
+                    "ai_prompt_events_median_per_session": 15,
+                    "ai_sessions": 1,
+                    "digital": "1:47:49",
+                    "decimal": "1.78",
+                    "text": "1 hr 47 mins",
+                    "hours": 1,
+                    "minutes": 47,
+                    "seconds": 49,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 6469.085549,
+                    "digital": "1:47:49",
+                    "decimal": "1.78",
+                    "text": "1 hr 47 mins",
+                    "hours": 1,
+                    "minutes": 47,
+                    "seconds": 49,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 6469.085549,
+                    "digital": "1:47:49",
+                    "decimal": "1.78",
+                    "text": "1 hr 47 mins",
+                    "hours": 1,
+                    "minutes": 47,
+                    "seconds": 49,
+                    "percent": 100.0
+                }
+            ]
+        }
+    ],
+    "start": "2026-10-15T04:00:00Z",
+    "end": "2026-10-16T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 6469.085549,
+        "text": "1 hr 47 mins",
+        "digital": "1:47",
+        "decimal": "1.78"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 4418,
+        "seconds_including_other_language": 6469,
+        "text": "1 hr 13 mins",
+        "text_including_other_language": "1 hr 47 mins"
+    }
+}
