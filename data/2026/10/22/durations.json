@@ -1,0 +1,349 @@
+{
+    "data": [
+        {
+            "time": 1792641600.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 776447,
+            "ai_cached_input_tokens": 17646796,
+            "ai_output_tokens": 8517,
+            "duration": 1228.413891,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 6.438875,
+                    "input_tokens": 692642,
+                    "output_tokens": 8476,
+                    "cached_input_tokens": 17493931
+                },
+                {
+                    "name": "Sonnet",
+                    "lines": 0,
+                    "cost": 0.198593,
+                    "input_tokens": 83805,
+                    "output_tokens": 41,
+                    "cached_input_tokens": 152865
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 6.438875,
+                "Sonnet": 0.198593
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 15753,
+            "ai_prompt_events_total": 5,
+            "color": null,
+            "ai_prompt_length_avg": 3151,
+            "ai_prompt_events_avg_per_session": 2,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 1765,
+            "ai_prompt_length_median_per_session": 41
+        },
+        {
+            "time": 1792642828.413891,
+            "project": "wp-plugin-development",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 3.737109,
+            "ai_model_breakdown": [
+                {
+                    "name": "Claude",
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 0,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1792642832.151,
+            "project": "royfoo-core",
+            "ai_input_tokens": 522894,
+            "ai_cached_input_tokens": 27887085,
+            "ai_output_tokens": 18527,
+            "duration": 908.414411,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 9,
+                    "cost": 8.039533,
+                    "input_tokens": 522894,
+                    "output_tokens": 18527,
+                    "cached_input_tokens": 27887085
+                },
+                {
+                    "name": "Claude",
+                    "lines": 9,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 18,
+            "ai_model_line_changes": {
+                "Opus": 9,
+                "Claude": 9
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 8.039533
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 5326,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 5326,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 5326,
+            "ai_prompt_length_median_per_session": 5326
+        },
+        {
+            "time": 1792645993.38,
+            "project": "royfoo-core",
+            "ai_input_tokens": 435407,
+            "ai_cached_input_tokens": 67356426,
+            "ai_output_tokens": 44110,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "input_tokens": 435407,
+                    "output_tokens": 44110,
+                    "cached_input_tokens": 67356426
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 16.095113
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1792648474.256127,
+            "project": "royfoo-core",
+            "ai_input_tokens": 1303753,
+            "ai_cached_input_tokens": 17104289,
+            "ai_output_tokens": 5465,
+            "duration": 1747.806873,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 5.924123,
+                    "input_tokens": 926851,
+                    "output_tokens": 4646,
+                    "cached_input_tokens": 10619002
+                },
+                {
+                    "name": "Sonnet",
+                    "lines": 0,
+                    "cost": 2.059051,
+                    "input_tokens": 376902,
+                    "output_tokens": 819,
+                    "cached_input_tokens": 6485287
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 5.924123,
+                "Sonnet": 2.059051
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 30855,
+            "ai_prompt_events_total": 6,
+            "color": null,
+            "ai_prompt_length_avg": 5142,
+            "ai_prompt_events_avg_per_session": 6,
+            "ai_prompt_events_median_per_session": 6,
+            "ai_prompt_length_avg_per_session": 5142,
+            "ai_prompt_length_median_per_session": 5142
+        },
+        {
+            "time": 1792651729.334,
+            "project": "royfoo-core",
+            "ai_input_tokens": 1160387,
+            "ai_cached_input_tokens": 61422943,
+            "ai_output_tokens": 2404,
+            "duration": 511.055,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 16.974217,
+                    "input_tokens": 1160387,
+                    "output_tokens": 2404,
+                    "cached_input_tokens": 61422943
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 16.974217
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1792653215.428,
+            "project": "royfoo-core",
+            "ai_input_tokens": 199231,
+            "ai_cached_input_tokens": 10507211,
+            "ai_output_tokens": 4512,
+            "duration": 1233.184,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 2.701545,
+                    "input_tokens": 130739,
+                    "output_tokens": 4483,
+                    "cached_input_tokens": 10444651
+                },
+                {
+                    "name": "Sonnet",
+                    "lines": 0,
+                    "cost": 0.149786,
+                    "input_tokens": 68492,
+                    "output_tokens": 29,
+                    "cached_input_tokens": 62560
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 2.701545,
+                "Sonnet": 0.149786
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 26086,
+            "ai_prompt_events_total": 6,
+            "color": null,
+            "ai_prompt_length_avg": 4348,
+            "ai_prompt_events_avg_per_session": 6,
+            "ai_prompt_events_median_per_session": 6,
+            "ai_prompt_length_avg_per_session": 4348,
+            "ai_prompt_length_median_per_session": 4348
+        },
+        {
+            "time": 1792660367.86,
+            "project": "wilmington-wp",
+            "ai_input_tokens": 0,
+            "ai_cached_input_tokens": 0,
+            "ai_output_tokens": 0,
+            "duration": 0.268447,
+            "ai_model_breakdown": [
+                {
+                    "name": "Fable",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {},
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        }
+    ],
+    "start": "2026-10-22T04:00:00Z",
+    "end": "2026-10-23T03:59:59Z",
+    "timezone": "America/New_York"
+}
