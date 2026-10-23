@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "time": 1792728000.0,
+            "project": "royfoo-core",
+            "ai_input_tokens": 800594,
+            "ai_cached_input_tokens": 28066121,
+            "ai_output_tokens": 94416,
+            "duration": 1209.999707,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 10.703915,
+                    "input_tokens": 800594,
+                    "output_tokens": 94416,
+                    "cached_input_tokens": 28066121
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 10.703915
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 38205,
+            "ai_prompt_events_total": 12,
+            "color": null,
+            "ai_prompt_length_avg": 3184,
+            "ai_prompt_events_avg_per_session": 12,
+            "ai_prompt_events_median_per_session": 12,
+            "ai_prompt_length_avg_per_session": 3184,
+            "ai_prompt_length_median_per_session": 3184
+        }
+    ],
+    "start": "2026-10-23T04:00:00Z",
+    "end": "2026-10-24T03:59:59Z",
+    "timezone": "America/New_York"
+}
