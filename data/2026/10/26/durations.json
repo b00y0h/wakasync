@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "time": 1792989137.760726,
+            "project": "BobbySmith",
+            "ai_input_tokens": 1760,
+            "ai_cached_input_tokens": 876918,
+            "ai_output_tokens": 798,
+            "duration": 608.433274,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 0.198383,
+                    "input_tokens": 1760,
+                    "output_tokens": 798,
+                    "cached_input_tokens": 876918
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 0.198383
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1792989746.194,
+            "project": "royfoo-core",
+            "ai_input_tokens": 939599,
+            "ai_cached_input_tokens": 9506448,
+            "ai_output_tokens": 6922,
+            "duration": 1273.762,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 5.798125,
+                    "input_tokens": 939599,
+                    "output_tokens": 6922,
+                    "cached_input_tokens": 9506448
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 5.798125
+            },
+            "ai_sessions": 3,
+            "ai_prompt_length_sum": 13226,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 13226,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 13226,
+            "ai_prompt_length_median_per_session": 13226
+        },
+        {
+            "time": 1792992461.956,
+            "project": "BobbySmith",
+            "ai_input_tokens": 770,
+            "ai_cached_input_tokens": 293226,
+            "ai_output_tokens": 337,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "input_tokens": 770,
+                    "output_tokens": 337,
+                    "cached_input_tokens": 293226
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 0.068465
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 13922,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 13922,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 13922,
+            "ai_prompt_length_median_per_session": 13922
+        },
+        {
+            "time": 1792995436.671757,
+            "project": "royfoo-core",
+            "ai_input_tokens": 1300302,
+            "ai_cached_input_tokens": 46893639,
+            "ai_output_tokens": 97711,
+            "duration": 1100.713243,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 1168,
+                    "cost": 16.534156,
+                    "input_tokens": 1300302,
+                    "output_tokens": 97711,
+                    "cached_input_tokens": 46893639
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 1168,
+            "ai_model_line_changes": {
+                "Opus": 1168
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 16.534156
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 1089,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 1089,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 1089,
+            "ai_prompt_length_median_per_session": 1089
+        },
+        {
+            "time": 1792999493.396,
+            "project": "royfoo-core",
+            "ai_input_tokens": 1212665,
+            "ai_cached_input_tokens": 29071119,
+            "ai_output_tokens": 72006,
+            "duration": 1015.987,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 87,
+                    "cost": 12.105003,
+                    "input_tokens": 1212665,
+                    "output_tokens": 72006,
+                    "cached_input_tokens": 29071119
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 87,
+            "ai_model_line_changes": {
+                "Opus": 87
+            },
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 12.105003
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 10011,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 10011,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 10011,
+            "ai_prompt_length_median_per_session": 10011
+        },
+        {
+            "time": 1793002217.448,
+            "project": "royfoo-core",
+            "ai_input_tokens": 329022,
+            "ai_cached_input_tokens": 14054599,
+            "ai_output_tokens": 29167,
+            "duration": 417.473,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 4.710348,
+                    "input_tokens": 329022,
+                    "output_tokens": 29167,
+                    "cached_input_tokens": 14054599
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 4.710348
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 9092,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 9092,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 9092,
+            "ai_prompt_length_median_per_session": 9092
+        },
+        {
+            "time": 1793006461.405,
+            "project": "royfoo-core",
+            "ai_input_tokens": 976059,
+            "ai_cached_input_tokens": 2749872,
+            "ai_output_tokens": 4915,
+            "duration": 121.234,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 0,
+                    "cost": 4.55251,
+                    "input_tokens": 976059,
+                    "output_tokens": 4915,
+                    "cached_input_tokens": 2749872
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 4.55251
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 11389,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 11389,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 11389,
+            "ai_prompt_length_median_per_session": 11389
+        },
+        {
+            "time": 1793008809.923,
+            "project": "royfoo-core",
+            "ai_input_tokens": 344595,
+            "ai_cached_input_tokens": 49649158,
+            "ai_output_tokens": 110764,
+            "duration": 0.0,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "input_tokens": 344595,
+                    "output_tokens": 110764,
+                    "cached_input_tokens": 49649158
+                }
+            ],
+            "ai_additions": 0,
+            "ai_model_line_changes": {},
+            "ai_deletions": 0,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 13.523492
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 0,
+            "ai_prompt_events_total": 0,
+            "color": null,
+            "ai_prompt_length_avg": 0,
+            "ai_prompt_events_avg_per_session": 0,
+            "ai_prompt_events_median_per_session": 0,
+            "ai_prompt_length_avg_per_session": 0,
+            "ai_prompt_length_median_per_session": 0
+        },
+        {
+            "time": 1793009717.145,
+            "project": "royfoo-core",
+            "ai_input_tokens": 13352,
+            "ai_cached_input_tokens": 10439926,
+            "ai_output_tokens": 7789,
+            "duration": 291.966,
+            "ai_model_breakdown": [
+                {
+                    "name": "Opus",
+                    "lines": 528,
+                    "cost": 2.297172,
+                    "input_tokens": 13352,
+                    "output_tokens": 7789,
+                    "cached_input_tokens": 10439926
+                },
+                {
+                    "name": "Claude",
+                    "lines": 0,
+                    "cost": 0.0,
+                    "input_tokens": 0,
+                    "output_tokens": 0,
+                    "cached_input_tokens": 0
+                }
+            ],
+            "ai_additions": 298,
+            "ai_model_line_changes": {
+                "Opus": 528
+            },
+            "ai_deletions": 230,
+            "human_additions": 0,
+            "human_deletions": 0,
+            "ai_model_costs": {
+                "Opus": 2.297172
+            },
+            "ai_sessions": 1,
+            "ai_prompt_length_sum": 9708,
+            "ai_prompt_events_total": 1,
+            "color": null,
+            "ai_prompt_length_avg": 9708,
+            "ai_prompt_events_avg_per_session": 1,
+            "ai_prompt_events_median_per_session": 1,
+            "ai_prompt_length_avg_per_session": 9708,
+            "ai_prompt_length_median_per_session": 9708
+        }
+    ],
+    "start": "2026-10-26T04:00:00Z",
+    "end": "2026-10-27T03:59:59Z",
+    "timezone": "America/New_York"
+}

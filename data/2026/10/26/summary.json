@@ -1,0 +1,1247 @@
+{
+    "data": [
+        {
+            "grand_total": {
+                "hours": 1,
+                "minutes": 20,
+                "total_seconds": 4829.568517,
+                "digital": "1:20",
+                "decimal": "1.33",
+                "text": "1 hr 20 mins",
+                "ai_additions": 1553,
+                "ai_deletions": 230,
+                "human_additions": 0,
+                "human_deletions": 0,
+                "ai_model_line_changes": {
+                    "Opus": 1783
+                },
+                "ai_input_tokens": 5118124,
+                "ai_cached_input_tokens": 163534905,
+                "ai_output_tokens": 330409,
+                "ai_prompt_length_sum": 68437,
+                "ai_prompt_events_total": 7,
+                "ai_sessions": 4,
+                "ai_model_costs": {
+                    "Opus": 59.787654
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opus",
+                        "lines": 1783,
+                        "cost": 59.787654,
+                        "input_tokens": 5118124,
+                        "output_tokens": 330409,
+                        "cached_input_tokens": 163534905
+                    },
+                    {
+                        "name": "Claude",
+                        "lines": 0,
+                        "cost": 0.0,
+                        "input_tokens": 0,
+                        "output_tokens": 0,
+                        "cached_input_tokens": 0
+                    }
+                ],
+                "ai_model_total_cost": 59.787654,
+                "ai_prompt_length_avg": 9777,
+                "ai_prompt_events_avg_per_session": 2,
+                "ai_prompt_events_median_per_session": 1,
+                "ai_prompt_length_avg_per_session": 11802,
+                "ai_prompt_length_median_per_session": 13226
+            },
+            "range": {
+                "start": "2026-10-26T04:00:00Z",
+                "end": "2026-10-27T03:59:59Z",
+                "date": "2026-10-26",
+                "text": "Mon Oct 26th 2026",
+                "timezone": "America/New_York"
+            },
+            "projects": [
+                {
+                    "name": "royfoo-core",
+                    "total_seconds": 4221.135243,
+                    "ai_additions": 1553,
+                    "ai_deletions": 230,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 1783
+                    },
+                    "ai_input_tokens": 5115594,
+                    "ai_cached_input_tokens": 162364761,
+                    "ai_output_tokens": 329274,
+                    "ai_prompt_length_sum": 54515,
+                    "ai_prompt_events_total": 6,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 59.520806
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 1783,
+                            "cost": 59.520806,
+                            "input_tokens": 5115594,
+                            "output_tokens": 329274,
+                            "cached_input_tokens": 162364761
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 59.520806,
+                    "ai_prompt_length_avg": 9086,
+                    "ai_prompt_length_avg_per_session": 10742,
+                    "ai_prompt_length_median_per_session": 10742,
+                    "ai_prompt_events_avg_per_session": 2,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 3,
+                    "digital": "1:10:21",
+                    "decimal": "1.17",
+                    "text": "1 hr 10 mins",
+                    "hours": 1,
+                    "minutes": 10,
+                    "seconds": 21,
+                    "percent": 87.4
+                },
+                {
+                    "name": "BobbySmith",
+                    "total_seconds": 608.433274,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 2530,
+                    "ai_cached_input_tokens": 1170144,
+                    "ai_output_tokens": 1135,
+                    "ai_prompt_length_sum": 13922,
+                    "ai_prompt_events_total": 1,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 0.266848
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 0,
+                            "cost": 0.266848,
+                            "input_tokens": 2530,
+                            "output_tokens": 1135,
+                            "cached_input_tokens": 1170144
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.266848,
+                    "ai_prompt_length_avg": 13922,
+                    "ai_prompt_length_avg_per_session": 13922,
+                    "ai_prompt_length_median_per_session": 13922,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 1,
+                    "digital": "0:10:08",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 8,
+                    "percent": 12.6
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Markdown",
+                    "total_seconds": 2633.097,
+                    "digital": "0:43:53",
+                    "decimal": "0.72",
+                    "text": "43 mins",
+                    "hours": 0,
+                    "minutes": 43,
+                    "seconds": 53,
+                    "percent": 54.52
+                },
+                {
+                    "name": "TypeScript",
+                    "total_seconds": 1525.201243,
+                    "digital": "0:25:25",
+                    "decimal": "0.42",
+                    "text": "25 mins",
+                    "hours": 0,
+                    "minutes": 25,
+                    "seconds": 25,
+                    "percent": 31.58
+                },
+                {
+                    "name": "Other",
+                    "total_seconds": 671.270274,
+                    "digital": "0:11:11",
+                    "decimal": "0.18",
+                    "text": "11 mins",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 11,
+                    "percent": 13.9
+                }
+            ],
+            "dependencies": [
+                {
+                    "name": "vitest",
+                    "total_seconds": 1292.167,
+                    "digital": "0:21:32",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 32,
+                    "percent": 6.44
+                },
+                {
+                    "name": "recipe-contract",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "TenantRegistries",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "richtext-lexical",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "recipeMenuCreate",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "payload",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "recipes",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "RecipeMenus",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "recipePublish",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "Users",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "db-mongodb",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "recipePresets",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "shared-mongo",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "Recipes",
+                    "total_seconds": 1273.762,
+                    "digital": "0:21:13",
+                    "decimal": "0.35",
+                    "text": "21 mins",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 13,
+                    "percent": 6.34
+                },
+                {
+                    "name": "types",
+                    "total_seconds": 173.991,
+                    "digital": "0:02:53",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 53,
+                    "percent": 0.87
+                },
+                {
+                    "name": "postProcess",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "emailTree",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "emailSocial",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "leaves",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "personalization",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "emailBlockSettings",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "walk",
+                    "total_seconds": 152.133,
+                    "digital": "0:02:32",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 32,
+                    "percent": 0.76
+                },
+                {
+                    "name": "react",
+                    "total_seconds": 44.729,
+                    "digital": "0:00:44",
+                    "decimal": "0.00",
+                    "text": "44 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "percent": 0.22
+                },
+                {
+                    "name": "email-edit",
+                    "total_seconds": 44.729,
+                    "digital": "0:00:44",
+                    "decimal": "0.00",
+                    "text": "44 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "percent": 0.22
+                },
+                {
+                    "name": "verified-claims",
+                    "total_seconds": 36.172243,
+                    "digital": "0:00:36",
+                    "decimal": "0.00",
+                    "text": "36 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "percent": 0.18
+                },
+                {
+                    "name": "user-core-client",
+                    "total_seconds": 36.172243,
+                    "digital": "0:00:36",
+                    "decimal": "0.00",
+                    "text": "36 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "percent": 0.18
+                },
+                {
+                    "name": "payload-core-client",
+                    "total_seconds": 36.172243,
+                    "digital": "0:00:36",
+                    "decimal": "0.00",
+                    "text": "36 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "percent": 0.18
+                },
+                {
+                    "name": "logger",
+                    "total_seconds": 36.172243,
+                    "digital": "0:00:36",
+                    "decimal": "0.00",
+                    "text": "36 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "percent": 0.18
+                },
+                {
+                    "name": "lucide-react",
+                    "total_seconds": 34.722,
+                    "digital": "0:00:34",
+                    "decimal": "0.00",
+                    "text": "34 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "percent": 0.17
+                },
+                {
+                    "name": "EmailPersonalizationContext",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailAudience",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailCanvasTree",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailViewport",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "EmailEmptySlot",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "EmailSectionPresetPicker",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "useBlockBoxes",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailChromeGeometry",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailColumnMath",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "EmailColumnDivider",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "emailHandleStore",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "blocks-edit",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "EmailHoverInsert",
+                    "total_seconds": 22.871,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 0.11
+                },
+                {
+                    "name": "client",
+                    "total_seconds": 21.858,
+                    "digital": "0:00:21",
+                    "decimal": "0.00",
+                    "text": "21 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "percent": 0.11
+                },
+                {
+                    "name": "actions",
+                    "total_seconds": 11.869,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "useEmailCustomCss",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "emailOutlineLabel",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "protocol",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "inspectorPopout",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "PoppedPanelFallback",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "EmailInspector",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "emailColumnWidth",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "RightPanelSlot",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "useEmailEditor",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "PanelSlotHeader",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "useCssPopoutHost",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "emailCssLintExtension",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "emailDndIds",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "usePanelPopoutHost",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "popoutSlotCollapse",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "rightSlot",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "EmailCssPanel",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "emailCssParts",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "useSlotLayout",
+                    "total_seconds": 11.851,
+                    "digital": "0:00:11",
+                    "decimal": "0.00",
+                    "text": "11 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "percent": 0.06
+                },
+                {
+                    "name": "EmailAudienceSection",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "emailInspectorClaims",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailMobileSection",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailTokenFieldsPanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "emailFieldNotes",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailColumnPanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailButtonStylePanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailAdvancedSection",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailSettingsGroupPanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailSharedRefPanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailTextStylePanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailSettingsForm",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailImageStylePanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "EmailSectionPanel",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "SchemaInspector",
+                    "total_seconds": 10.007,
+                    "digital": "0:00:10",
+                    "decimal": "0.00",
+                    "text": "10 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "percent": 0.05
+                },
+                {
+                    "name": "absolutize",
+                    "total_seconds": 6.536,
+                    "digital": "0:00:06",
+                    "decimal": "0.00",
+                    "text": "6 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "percent": 0.03
+                },
+                {
+                    "name": "plainText",
+                    "total_seconds": 6.536,
+                    "digital": "0:00:06",
+                    "decimal": "0.00",
+                    "text": "6 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "percent": 0.03
+                },
+                {
+                    "name": "CompassCommentAudienceMigration",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "canvasTestUtils",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "EmailCanvas",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "dimensionExposure",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "clickLikeABrowser",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                }
+            ],
+            "machines": [
+                {
+                    "name": "EAB-L2LC4JM6CY.local",
+                    "total_seconds": 4829.568517,
+                    "machine_name_id": "25c6cbc9-3ff0-43b0-bbfc-63a259006229",
+                    "digital": "1:20:29",
+                    "decimal": "1.33",
+                    "text": "1 hr 20 mins",
+                    "hours": 1,
+                    "minutes": 20,
+                    "seconds": 29,
+                    "percent": 100.0
+                }
+            ],
+            "editors": [
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 4829.568517,
+                    "ai_additions": 1553,
+                    "ai_deletions": 230,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 1783
+                    },
+                    "ai_input_tokens": 5118124,
+                    "ai_cached_input_tokens": 163534905,
+                    "ai_output_tokens": 330409,
+                    "ai_prompt_length_sum": 68437,
+                    "ai_prompt_events_total": 7,
+                    "ai_model_costs": {
+                        "Opus": 59.787654
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 1783,
+                            "cost": 59.787654,
+                            "input_tokens": 5118124,
+                            "output_tokens": 330409,
+                            "cached_input_tokens": 163534905
+                        },
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 59.787654,
+                    "ai_prompt_length_avg": 9777,
+                    "ai_prompt_length_avg_per_session": 11802,
+                    "ai_prompt_length_median_per_session": 13226,
+                    "ai_prompt_events_avg_per_session": 2,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 4,
+                    "digital": "1:20:29",
+                    "decimal": "1.33",
+                    "text": "1 hr 20 mins",
+                    "hours": 1,
+                    "minutes": 20,
+                    "seconds": 29,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Mac",
+                    "total_seconds": 4829.568517,
+                    "digital": "1:20:29",
+                    "decimal": "1.33",
+                    "text": "1 hr 20 mins",
+                    "hours": 1,
+                    "minutes": 20,
+                    "seconds": 29,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 4829.568517,
+                    "digital": "1:20:29",
+                    "decimal": "1.33",
+                    "text": "1 hr 20 mins",
+                    "hours": 1,
+                    "minutes": 20,
+                    "seconds": 29,
+                    "percent": 100.0
+                }
+            ]
+        }
+    ],
+    "start": "2026-10-26T04:00:00Z",
+    "end": "2026-10-27T03:59:59Z",
+    "cumulative_total": {
+        "seconds": 4829.568517,
+        "text": "1 hr 20 mins",
+        "digital": "1:20",
+        "decimal": "1.33"
+    },
+    "daily_average": {
+        "holidays": 0,
+        "days_minus_holidays": 1,
+        "days_including_holidays": 1,
+        "seconds": 4158,
+        "seconds_including_other_language": 4830,
+        "text": "1 hr 9 mins",
+        "text_including_other_language": "1 hr 20 mins"
+    }
+}
